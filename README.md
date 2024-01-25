@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedaredah" alt="ahmedaredah" /></a> </p>
 
-- 🔭 I’m currently working on A Freight Trains Simulator
+- 🔭 I’m currently working on A Cargo Water Vessels Simulator
 
-- 🌱 I’m currently learning **Swift Programming Langauge**
-
-- 👯 I finished a collaboration on [Carla Simulator HMD Integration](https://github.com/AhmedAredah/carla)
+- 👯 I finished the open-source Network Freight Trains Simulator [(NeTrainSim)](https://github.com/VTTI-CSM/NeTrainSim)
 
 - 📫 Reach me at **AhmedAredah@VT.EDU**
 

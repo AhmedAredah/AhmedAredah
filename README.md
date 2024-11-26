@@ -8,11 +8,13 @@
 
 - 🔭 I’m currently working on A Cargo Water Vessels Simulator
 
-- 👯 I finished the open-source Network Freight Trains Simulator [(NeTrainSim)](https://github.com/VTTI-CSM/NeTrainSim)
+- 👯 I finished
+    - the open-source Network Freight Trains Simulator [(NeTrainSim)](https://github.com/VTTI-CSM/NeTrainSim) and
+    - the open-source Network Freight Ships Simulator [(ShipNetSim)](https://github.com/VTTI-CSM/ShipNetSim)
 
 - 📫 Reach me at **AhmedAredah@VT.EDU**
 
-- 📄 Know about my experiences from [My CV](https://drive.google.com/file/d/1XLfQN6sXR2DgUPUQxRHaD8cyMfOCa6KZ/view?usp=sharing)
+- 📄 Know more about me by visiting [my website](https://ahmedaredah.github.io/) 
 
 <h3 align="left">Connect with me:</h3>
 

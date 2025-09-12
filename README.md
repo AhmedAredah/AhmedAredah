@@ -31,6 +31,13 @@
         <br>
         <sub><i>ShipNetSim: Integrated Maritime Freight Simulator<br>for Energy Consumption Predition, Cyber Attacks, and<br>Path Optimization</i></sub>
       </td>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/VTTI-CSM/CargoNetSim">
+          <img src="https://github.com/user-attachments/assets/f241662b-c5aa-4d55-a192-fa836e4cf091" alt="CargoNetSim" height="75"/>
+        </a>
+        <br>
+        <sub><i>CargoNetSim: A Multimodal Freight <br>Operations optimization <br>tool</i></sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -40,6 +47,7 @@
 - 🏆 **Completed Projects**:
   - **[NeTrainSim](https://github.com/VTTI-CSM/NeTrainSim)** - Open-source freight train network simulator
   - **[ShipNetSim](https://github.com/VTTI-CSM/ShipNetSim)** - Open-source maritime freight network simulator
+  - **[CargoNetSim](https://github.com/VTTI-CSM/CargoNetSim)** - Open-source freight operations optimization
 - 📚 **Research Focus**: Large-scale transportation simulations & sustainable mobility solutions
 
 ---

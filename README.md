@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Aredah</h1>
-<h3 align="center">PhD Candidate & Research Assistant at Virginia Tech's Center for Sustainable Mobility</h3>
+<h3 align="center">Postdoc Research Associate at Texas A&M Transportation Institute</h3>
 
 <p align="center">
   <a href="https://github.com/ahmedaredah">
@@ -129,8 +129,8 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:AhmedAredah@VT.EDU">
-    <img src="https://img.shields.io/badge/Virginia_Tech-Email-%23BB001B?style=flat&logo=gmail" alt="VT Email">
+  <a href="mailto:A-Aredah@TTI.TAMU.EDU">
+    <img src="https://img.shields.io/badge/TTI-Email-%23BB001B?style=flat&logo=gmail" alt="VT Email">
   </a>
   <a href="mailto:ahmed.aredah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">

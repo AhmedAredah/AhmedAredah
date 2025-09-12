@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=ahmedaredah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="https://github.com/ahmedaredah?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/ahmedaredah?color=blue&style=flat" alt="Repositories" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ahmedaredah&query=$.public_repos&label=Repositories&style=flat" alt="Repositories" />
   </a>
 </p>
 

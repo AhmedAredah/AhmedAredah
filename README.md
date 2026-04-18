@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Aredah</h1>
-<h3 align="center">Postdoc Research Associate at Texas A&M Transportation Institute</h3>
+<h3 align="center">Assistant Research Scientist at Texas A&M Transportation Institute</h3>
 
 <p align="center">
   <a href="https://github.com/ahmedaredah">
